@@ -29,6 +29,7 @@ function App() {
         transition={{ duration: 1 }}
       >
         <h3 className="mb-4 text-center">Iniciar Sesión</h3>
+        <h1 className="mb-4 text-center">Hola desde Netlify con despliegue continuo</h1>
         <input
           className="form-control mb-3"
           placeholder="Usuario"
